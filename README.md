@@ -5,15 +5,18 @@ A simple marble trading project made by Python
 ***Console log***
 
 using indexedDB for stdlib modules cache
-›You start the game with 1000 gold pieces
-›purse: 3000, last result: (black): 2000
-›
-›purse: 3200, last result: (green): 200
-›
-›purse: 3000, last result: (red): -200
-›
-›starting/ ending purse: 1000 / 3000
-›gain/loss: 200.0 %
+
+> You start the game with 1000 gold pieces
+> 
+> purse: 3000, last result: (black): 2000
+> 
+> purse: 3200, last result: (green): 200
+> 
+> purse: 3000, last result: (red): -200
+> 
+> starting/ ending purse: 1000 / 3000
+> 
+> gain/loss: 200.0 %
 
 ------
 
